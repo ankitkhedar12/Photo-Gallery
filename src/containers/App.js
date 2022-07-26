@@ -1,16 +1,16 @@
 import React, { Component } from "react";
 import CardArray from "../components/CardArray";
-import {robots} from '../components/robots';
-import SearchBox from '../components/SearchBox'
-import './App.css';
+import { robots } from '../components/robots';
 import Scroll from '../components/Scroll';
+import SearchBox from '../components/SearchBox';
+import './App.css';
 
 class App extends Component {
     constructor(){
         super();
         this.state = {
             robots : robots ,
-            searchfield: ''
+            searchfield: '',
         }
     }
 

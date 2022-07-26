@@ -4,8 +4,15 @@ import { robots } from '../components/robots';
 import Scroll from '../components/Scroll';
 import SearchBox from '../components/SearchBox';
 import './App.css';
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+    Link
+} from "react-router-dom";
+import Loginpage from "./src/components/Loginpage";
 
-class App extends Component {
+class Homepage extends Component {
     constructor(){
         super();
         this.state = {

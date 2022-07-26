@@ -41,6 +41,18 @@ class App extends Component {
             return(
                 <div className="tc">
                     <h1  >Photo Gallery App</h1>
+
+                    <nav class="">
+                        {/* <a class="link dim black b f1 f-headline-ns tc db mb3 mb4-ns" href="#" title="Home">Site Name</a> */}
+                        {/* <div class="ph3"> */}
+                            {/* <h1 class="f6 fw6 ttu tracked">Basic button</h1> */}
+                            <a class="f6 link dim br3 ph3 pv2 mb2 dib white bg-black" href="#0">Home</a>
+                            <a class="f6 link dim br3 ph3 pv2 mb2 dib white bg-near-black" href="#0">Favourites</a>
+                            <a class="f6 link dim br3 ph3 pv2 mb2 dib white bg-dark-gray" href="#0">Profile</a>
+                            <a class="f6 link dim br3 ph3 pv2 mb2 dib white bg-mid-gray" href="#0">Login</a>
+                        {/* </div> */}
+                    </nav>
+
                     <SearchBox searchChange = {this.onSearchChange} />
                     <Scroll>
                         <CardArray robots = {filteredRobots} />

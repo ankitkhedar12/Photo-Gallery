@@ -40,7 +40,7 @@ class App extends Component {
         }else{
             return(
                 <div className="tc">
-                    <h1  >Photo Gallery</h1>
+                    <h1  >Photo Gallery App</h1>
                     <SearchBox searchChange = {this.onSearchChange} />
                     <Scroll>
                         <CardArray robots = {filteredRobots} />

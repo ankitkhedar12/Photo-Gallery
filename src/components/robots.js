@@ -2,7 +2,7 @@ export const robots = [
     {
       id: 1,
       picture:'./images/image (1).jpg',
-      keyword:['ankit', 'personal'],
+      keyword:['personal','ankit'],
       name: 'Ankit Khedar',
       username: 'ankit12',
       email: 'ankitkhedar12@gmail.com'

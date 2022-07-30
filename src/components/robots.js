@@ -2,31 +2,31 @@ export const robots = [
     {
       id: 1,
       picture:'./images/image (1).jpg',
-      keyword:['personal','ankit'],
+      keyword:'simple wallpaper',
       name: 'Ankit Khedar',
       username: 'ankit12',
-      email: 'ankitkhedar12@gmail.com'
+      email: 'ankitkhedar12@asegeg.com'
     },
     {
       id: 2,
       picture:'./images/image (2).jpg',
-      keyword:[],
-      name: 'Vikash',
-      username: 'vikash304',
-      email: 'viratkhedar304@gmail.com'
+      keyword:'supreme krishna god Raam',
+      name: 'Virat',
+      username: 'virat304',
+      email: 'virat3123@nauor.com'
     },
     {
       id: 3,
       picture:'./images/image (3).jpg',
-      keyword:[],
+      keyword:'Om Chanting',
       name: 'Anil Kumar',
       username: 'anil18',
-      email: 'anilkhedar18@gmail.com'
+      email: 'anil1234@koru.com'
     },
     {
       id: 4,
       picture:'./images/image (4).jpg',
-      keyword:[],
+      keyword:'hanuman ShreeRam god PawanPutra Bajrangbali',
       name: 'Patricia Lebsack',
       username: 'Karianne',
       email: 'Julianne.OConner@kory.org'
@@ -34,7 +34,7 @@ export const robots = [
     {
       id: 5,
       picture:'./images/image (5).jpg',
-      keyword:[],
+      keyword:'view scene ',
       name: 'Chelsey Dietrich',
       username: 'Kamren',
       email: 'Lucio_Hettinger@annie.ca'
@@ -42,7 +42,7 @@ export const robots = [
     {
       id: 6,
       picture:'./images/image (6).jpg',
-      keyword:[],
+      keyword:'quote simple ',
       name: 'Mrs. Dennis Schulist',
       username: 'Leopoldo_Corkery',
       email: 'Karley_Dach@jasper.info'
@@ -50,7 +50,7 @@ export const robots = [
     {
       id: 7,
       picture:'./images/image (7).jpg',
-      keyword:[],
+      keyword:'RRR RamCharan Raam ShreeRam Bhagwan Hanuman',
       name: 'Kurtis Weissnat',
       username: 'Elwyn.Skiles',
       email: 'Telly.Hoeger@billy.biz'
@@ -58,7 +58,7 @@ export const robots = [
     {
       id: 8,
       picture:'./images/image (8).jpg',
-      keyword:[],
+      keyword:'rrr vandeMatram',
       name: 'Nicholas Runolfsdottir V',
       username: 'Maxime_Nienow',
       email: 'Sherwood@rosamond.me'
@@ -66,7 +66,7 @@ export const robots = [
     {
       id: 9,
       picture:'./images/image (9).jpg',
-      keyword:[],
+      keyword:'Raam God bhagwan shreeRam',
       name: 'Glenna Reichert',
       username: 'Delphine',
       email: 'Chaim_McDermott@dana.io'
@@ -74,7 +74,7 @@ export const robots = [
     {
       id: 10,
       picture:'./images/image (10).jpg',
-      keyword:[],
+      keyword:'Hanuman Pawanputra bhagwan Bajrangbali',
       name: 'Clementina DuBuque',
       username: 'Moriah.Stanton',
       email: 'Rey.Padberg@karina.biz'

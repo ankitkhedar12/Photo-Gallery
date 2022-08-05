@@ -3,6 +3,7 @@ import CardArray from "../components/CardArray";
 import { robots } from '../components/robots';
 import Scroll from '../components/Scroll';
 import SearchBox from '../components/SearchBox';
+import Particle from '../components/BackgroundParticle/Particle';
 import './App.css';
 import Signin from "../components/Signin/Signin";
 import Register from "../components/Register/Register";
@@ -76,6 +77,7 @@ class App extends Component {
         }else{
             return(
                 <div className="tc">
+                    <Particle/>
                     <h1  >Photo Gallery App</h1>
                     { this.state.route === 'home'
                         ?    <><nav className="">

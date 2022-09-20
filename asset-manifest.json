@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/photo-gallery/static/css/main.f450c7c8.css",
+    "main.js": "/photo-gallery/static/js/main.5929f344.js",
+    "static/js/787.5a8c54cb.chunk.js": "/photo-gallery/static/js/787.5a8c54cb.chunk.js",
+    "static/media/BerkshireSwash-Regular.woff": "/photo-gallery/static/media/BerkshireSwash-Regular.9db9766c2198c40d4801.woff",
+    "index.html": "/photo-gallery/index.html",
+    "main.f450c7c8.css.map": "/photo-gallery/static/css/main.f450c7c8.css.map",
+    "main.5929f344.js.map": "/photo-gallery/static/js/main.5929f344.js.map",
+    "787.5a8c54cb.chunk.js.map": "/photo-gallery/static/js/787.5a8c54cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f450c7c8.css",
+    "static/js/main.5929f344.js"
+  ]
+}

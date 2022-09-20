@@ -9,7 +9,8 @@ const CardArray = ({robots}) => {
             id={robots[i].id} 
             name={robots[i].name} 
             email={robots[i].email} 
-            picture={robots[i].picture} />
+            picture={robots[i].picture} 
+            />
         );
     })
     return(

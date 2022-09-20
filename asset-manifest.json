@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Photo-Gallery/static/css/main.5f8b6991.css",
-    "main.js": "/Photo-Gallery/static/js/main.55480e11.js",
-    "static/js/787.5a8c54cb.chunk.js": "/Photo-Gallery/static/js/787.5a8c54cb.chunk.js",
-    "static/media/BerkshireSwash-Regular.woff": "/Photo-Gallery/static/media/BerkshireSwash-Regular.9db9766c2198c40d4801.woff",
-    "index.html": "/Photo-Gallery/index.html",
-    "main.5f8b6991.css.map": "/Photo-Gallery/static/css/main.5f8b6991.css.map",
-    "main.55480e11.js.map": "/Photo-Gallery/static/js/main.55480e11.js.map",
-    "787.5a8c54cb.chunk.js.map": "/Photo-Gallery/static/js/787.5a8c54cb.chunk.js.map"
+    "main.css": "/photo-gallery/static/css/main.f450c7c8.css",
+    "main.js": "/photo-gallery/static/js/main.b0a39ed7.js",
+    "static/js/787.5a8c54cb.chunk.js": "/photo-gallery/static/js/787.5a8c54cb.chunk.js",
+    "static/media/BerkshireSwash-Regular.woff": "/photo-gallery/static/media/BerkshireSwash-Regular.9db9766c2198c40d4801.woff",
+    "index.html": "/photo-gallery/index.html",
+    "main.f450c7c8.css.map": "/photo-gallery/static/css/main.f450c7c8.css.map",
+    "main.b0a39ed7.js.map": "/photo-gallery/static/js/main.b0a39ed7.js.map",
+    "787.5a8c54cb.chunk.js.map": "/photo-gallery/static/js/787.5a8c54cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f8b6991.css",
-    "static/js/main.55480e11.js"
+    "static/css/main.f450c7c8.css",
+    "static/js/main.b0a39ed7.js"
   ]
 }

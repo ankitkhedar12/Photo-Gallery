@@ -16,7 +16,7 @@
     "tsparticles": "^2.1.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://myusername.github.io/Photo-Gallery",
+  "homepage": "https://ankitkhedar12.github.io/Photo-Gallery",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
